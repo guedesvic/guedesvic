@@ -20,13 +20,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Ruby](https://img.shields.io/badge/-ruby-0D1117?style=for-the-badge&logo=ruby&logoColor=red&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1&labelColor=0D1117)&nbsp; 
 ![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-0D1117?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=#CC2927&labelColor=0D1117)&nbsp; 
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=#FCC624&labelColor=0D1117)&nbsp; 
 
 
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=#DC382D&textColor=0D1117)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=#DC382D&textColor=0D1117)&nbsp;
 
